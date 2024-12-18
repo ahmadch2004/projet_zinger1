@@ -10,9 +10,6 @@ use App\Models\Owner;
  */
 class OwnerFactory extends Factory
 {
-
-    protected $model = Owner::class;
-
     /**
      * Define the model's default state.
      *
